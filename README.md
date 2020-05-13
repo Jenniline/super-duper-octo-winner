@@ -1,6 +1,9 @@
 # Driver Drowsiness Detection System
 
 ## Description
+The description of this project is a write up to give users of this system an understanding of how the system works and the tools needed inorder to exploit the system fully. In order to do so, the following have to be taken into consideration.
+1) ## Requirements 
+..*A computer with a webcam or images of a face with closed and open eyes
 TODO:
 
 
